@@ -11,7 +11,7 @@ All other instructions are found in the read me file. Good luck and most importa
 */
 import { Animal } from "./animal";
 import { getAnimal } from "./zoo";
-
+/*the error under melman states it does not recognize name, should this be correct*/
 const alex: Animal = getAnimal("Alex");
 const marty: Animal = getAnimal("Marty");
 const melman: Animal = getAnimal("Melman");
