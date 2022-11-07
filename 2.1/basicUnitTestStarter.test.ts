@@ -10,6 +10,7 @@ describe("Testing the calculator", () => {
     });
     test("Multiplication works", () => {
       expect(true).toBeTruthy();
+      /*comments test
     });
     test("Division works", () => {
       expect(true).toBeTruthy();
